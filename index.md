@@ -1,1 +1,2 @@
-# Start-Markdown-Course
+# The Yaktocat
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
